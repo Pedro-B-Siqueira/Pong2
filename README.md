@@ -42,6 +42,7 @@ Pong 2 é uma nova versão do clássico jogo Pong, adicionando novos elementos c
 2. Instale o Pygame:
    
 > bash
+
 `pip install pygame`
 
 
@@ -49,6 +50,7 @@ Pong 2 é uma nova versão do clássico jogo Pong, adicionando novos elementos c
 4. Execute o arquivo menu.py:
 
 > bash
+
 `python menu.py`
 
 ## 🎯 Objetivo
