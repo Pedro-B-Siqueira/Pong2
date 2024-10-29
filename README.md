@@ -1,10 +1,10 @@
 # Pong 2: O Inimigo Agora É Outro 🏓
 
-Uma versão moderna e divertida do clássico jogo Pong, com novos recursos e mecânicas de gameplay.
+**Pong 2 não é um jogo sério e foi feito apenas para motivos de brincadeiras entre amigos, este jogo NUNCA será comercializado de forma alguma, baixe-o e chame seus amigos para garantir algumas risadas com suas reações.**
 
 ## 📋 Descrição
 
-Pong 2 é uma reinvenção do clássico jogo Pong, adicionando novos elementos como múltiplas bolas, projéteis e mecânicas especiais de gameplay. O jogo mantém a essência do Pong original mas adiciona uma camada extra de estratégia e diversão.
+Pong 2 é uma nova versão do clássico jogo Pong, adicionando novos elementos como múltiplas bolas, projéteis e mecânicas especiais de gameplay para o Jogador 1, com isso, mudando a finalidade do jogo para zoar com seus amigos.
 
 ## 🎮 Como Jogar
 
@@ -17,17 +17,17 @@ Pong 2 é uma reinvenção do clássico jogo Pong, adicionando novos elementos c
 - `+` - Aumentar tamanho da raquete
 - `-` - Diminuir tamanho da raquete
 - `C` - Criar nova bola
+- - `M + P` - Paralisa a raquete
 
 ### Controles do Jogador 2 (Direita):
 - `↑` - Mover para cima
 - `↓` - Mover para baixo
-- `M + P` - Paralisa a raquete
 
-## 🌟 Recursos Especiais
+## 🌟 Recursos Especiais do Jogador 1
 
 - **Sistema de Pontuação**: Placar mostrando os pontos de cada jogador
 - **Múltiplas Bolas**: Possibilidade de adicionar mais bolas ao jogo
-- **Projéteis**: Atire projéteis para desabilitar temporariamente a raquete do oponente
+- **Projéteis**: Atire projéteis para desabilitar a raquete do oponente
 - **Raquetes Redimensionáveis**: Altere o tamanho da sua raquete durante o jogo
 - **Menu Principal**: Interface inicial com botão de início de jogo
 
@@ -42,19 +42,18 @@ Pong 2 é uma reinvenção do clássico jogo Pong, adicionando novos elementos c
 2. Instale o Pygame:
    
 > bash
-
 `pip install pygame`
 
 
 3. Clone o repositório ou baixe os arquivos
 4. Execute o arquivo menu.py:
 
-bash
-python menu.py
+> bash
+`python menu.py`
 
 ## 🎯 Objetivo
 
-Marque mais pontos que seu oponente! Um ponto é marcado quando a bola passa pela raquete do adversário. Use as mecânicas especiais estrategicamente para ganhar vantagem no jogo.
+Marque mais pontos que seu oponente! Um ponto é marcado quando a bola passa pela raquete do adversário. Utilize das vantagens do Jogador 1 para sacanear e zoar com seu(s) amigo(s)!
 
 ## 🔄 Como Reiniciar
 
@@ -62,8 +61,4 @@ Marque mais pontos que seu oponente! Um ponto é marcado quando a bola passa pel
 
 ## 👥 Desenvolvedores
 
-[Seu nome/equipe aqui]
-
-## 📄 Licença
-
-[Sua licença aqui]
+Pedro Bernardes Siqueira
